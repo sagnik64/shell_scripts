@@ -2,6 +2,6 @@
 
 to use the script
 
-`$ ./script/find_images.sh` 
+`$ ./find_images.sh` 
 
 
